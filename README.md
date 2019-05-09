@@ -1,5 +1,5 @@
 # uranus
-[http://uranus.tissuematter.com](uranus.tissuematter.com)
+[uranus.tissuematter.com](http://uranus.tissuematter.com)
 
 [mythology](https://en.wikipedia.org/wiki/Uranus_(mythology))
 
